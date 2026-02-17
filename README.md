@@ -1,10 +1,10 @@
 # WIP
 
-**TODO:**
--[] add source code of website
--[] add all articles
--[] ensure competeness of images, videos, etc. 
--[] ensure function of links
+**TODO:**  
+-[] add source code of website  
+-[] add all articles  
+-[] ensure competeness of images, videos, etc.   
+-[] ensure function of links  
 
 ## Links  
 
